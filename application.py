@@ -269,3 +269,6 @@ def grid():
 if __name__ == "__main__":
     application.debug=True
     application.run()
+
+
+# Thanks for your order. Would you like to have it to the same address as last time? 456 Sw. East drive cada N 
